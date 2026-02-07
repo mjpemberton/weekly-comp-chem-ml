@@ -6,7 +6,7 @@ For the past year, I have been compiling weekly research summaries of publicatio
 
 My research interests lie at the intersection of artificial intelligence, machine learning, and computational organic chemistry, with a particular emphasis on applications in pharmaceutical development and drug discovery. As a result, while many of the selected publications fall within this domain, the scope of the digest is intentionally broad and reflects the rapidly evolving landscape of machine learning across the chemical sciences.
 
-Each weekly update categorizes publications into one of the following eight areas:
+Each weekly update categorises publications into one of the following eight areas:
 
 - **Machine-Learned Potentials & Molecular Simulation**
 - **Quantum Chemistry & Electronic Structure with ML**
