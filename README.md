@@ -12,14 +12,14 @@ My research interests lie at the intersection of artificial intelligence, machin
 
 Each weekly update categorises publications into one of the following eight areas:
 
-- **Machine-Learned Potentials & Molecular Simulation**
-- **Quantum Chemistry & Electronic Structure with ML**
-- **Drug Discovery, ADME & Chemical Biology**
-- **Molecular Representation, Graphs & Foundation Models**
-- **Generative Models & Molecular Design**
-- **Reaction Prediction, Mechanisms & Synthesis Planning**
 - **Autonomous Labs, Agents & AI-Driven Experimentation**
 - **Data, Benchmarks, Tools & Reproducibility**
+- **Drug Discovery, ADME & Chemical Biology**
+- **Generative Models & Molecular Design**
+- **Machine-Learned Potentials & Molecular Simulation**
+- **Molecular Representation, Graphs & Foundation Models**
+- **Quantum Chemistry & Electronic Structure with ML**
+- **Reaction Prediction, Mechanisms & Synthesis Planning**
 
 The digest aggregates publications from a wide range of venues, including journals published by Springer Nature, ACS, RSC, Wiley, and others, as well as relevant preprints.
 
