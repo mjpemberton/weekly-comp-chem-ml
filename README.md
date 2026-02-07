@@ -3,7 +3,7 @@
 Welcome! This repository hosts a **weekly curated digest of recent literature at the intersection of machine learning and chemistry**.
 
 **Browse the full archive of weekly digests:**  
-[Weekly Digest Index](index.md)
+→ [Weekly Digest Index](index.md)
 
 
 For the past year, I have been compiling weekly research summaries of publications relevant to my own work and sharing them internally within my research group. I have decided to make these digests public in the hope that they may be useful to the wider computational chemistry and molecular machine learning community.
