@@ -2,6 +2,10 @@
 
 Welcome! This repository hosts a **weekly curated digest of recent literature at the intersection of machine learning and chemistry**.
 
+**Browse the full archive of weekly digests:**  
+[Weekly Digest Index](index.md)
+
+
 For the past year, I have been compiling weekly research summaries of publications relevant to my own work and sharing them internally within my research group. I have decided to make these digests public in the hope that they may be useful to the wider computational chemistry and molecular machine learning community.
 
 My research interests lie at the intersection of artificial intelligence, machine learning, and computational organic chemistry, with a particular emphasis on applications in pharmaceutical development and drug discovery. As a result, while many of the selected publications fall within this domain, the scope of the digest is intentionally broad and reflects the rapidly evolving landscape of machine learning across the chemical sciences.
