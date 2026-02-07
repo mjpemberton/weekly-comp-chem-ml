@@ -1,31 +1,28 @@
-# Weekly Digest Archive
+# Machine Learning in Chemistry Weekly Digest
 
-This page provides an archive of weekly literature digests covering recent research at the intersection of machine learning and chemistry.
+Welcome! This repository hosts a **weekly curated digest of recent literature at the intersection of machine learning and chemistry**.
 
-Each entry summarizes publications released during the **seven-day period leading up to the listed date**. Digests are ordered reverse-chronologically, with the most recent updates shown first.
+**Browse the full archive of weekly digests:**  
+→ [Weekly Digest Index](index.md)
 
----
 
-## 2026
+For the past year, I have been compiling weekly research summaries of publications relevant to my own work and sharing them internally within my research group. I have decided to make these digests public in the hope that they may be useful to the wider computational chemistry and molecular machine learning community.
 
-- **[Week ending 5 February 2026](weeks/2026-02-05.md)**  
-  *(Literature published 30 January - 5 February 2026)*
+My research interests lie at the intersection of artificial intelligence, machine learning, and computational organic chemistry, with a particular emphasis on applications in pharmaceutical development and drug discovery. As a result, while many of the selected publications fall within this domain, the scope of the digest is intentionally broad and reflects the rapidly evolving landscape of machine learning across the chemical sciences.
 
-- **[Week ending 29 January 2026](weeks/2026-01-29.md)**  
-  *(Literature published 23 - 29 January 2026)*
+Each weekly update categorises publications into one of the following eight areas:
 
-- **[Week ending 22 January 2026](weeks/2026-01-22.md)**  
-  *(Literature published 16 - 22 January 2026)*
+- **Autonomous Labs, Agents & AI-Driven Experimentation**
+- **Data, Benchmarks, Tools & Reproducibility**
+- **Drug Discovery, ADME & Chemical Biology**
+- **Generative Models & Molecular Design**
+- **Machine-Learned Potentials & Molecular Simulation**
+- **Molecular Representation, Graphs & Foundation Models**
+- **Quantum Chemistry & Electronic Structure with ML**
+- **Reaction Prediction, Mechanisms & Synthesis Planning**
 
-- **[Week ending 15 January 2026](weeks/2026-01-15.md)**  
-  *(Literature published 9 - 15 January 2026)*
+The digest aggregates publications from a wide range of venues, including journals published by Springer Nature, ACS, RSC, Wiley, and others, as well as relevant preprints.
 
-- **[Week ending 8 January 2026](weeks/2026-01-08.md)**  
-  *(Literature published 2 - 8 January 2026)*
+Please note that none of the work listed here is my own (unless explicitly indicated in the author list). I do not own any of the referenced content, and some of the work highlighted here appears as preprints and has not yet undergone peer review. This repository is intended solely as a **community resource for information dissemination and discovery**.
 
-- **[Week ending 1 January 2026](weeks/2026-01-01.md)**  
-  *(Literature published 26 December 2025 - 1 January 2026)*
-
----
-
-Updates are added weekly. Older entries remain permanently archived for reference.
+If you notice an important paper that I have missed, or come across work you believe would be relevant to include, contributions and suggestions are very welcome.
