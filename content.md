@@ -1,3 +1,7 @@
+---
+title: "Weekly Digest Archive"
+---
+
 # Weekly Digest Archive
 
 This page provides an archive of weekly literature digests covering recent research at the intersection of machine learning and chemistry.
