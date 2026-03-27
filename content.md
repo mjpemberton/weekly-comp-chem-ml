@@ -12,6 +12,9 @@ Each entry summarizes publications released during the **seven-day period leadin
 
 ## 2026
 
+- **[Week ending 26 March 2026](weeks/2026-03-26.md)**  
+  *(Literature published 20 - 26 March 2026)*
+
 - **[Week ending 19 March 2026](weeks/2026-03-19.md)**  
   *(Literature published 13 - 19 March 2026)*
 
