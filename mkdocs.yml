@@ -1,0 +1,18 @@
+site_name: Machine Learning in Chemistry Weekly Digest
+
+site_description: >-
+  A weekly curated digest of recent literature at the intersection
+  of machine learning and chemistry.
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Weekly Digest Archive:
+      - Archive: archive.md
+      - "2026":
+          - "09 July 2026": weeks/2026-07-09.md

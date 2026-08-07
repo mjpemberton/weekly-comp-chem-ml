@@ -1,0 +1,14 @@
+# MkDocs generated website
+site/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
