@@ -7,4 +7,5 @@ dependencies:
   - python=3.12
   - pip
   - pip:
-      - mkdocs-material==9.*
+      - "mkdocs<2"
+      - "mkdocs-material==9.*"

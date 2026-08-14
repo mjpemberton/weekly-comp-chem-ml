@@ -14,5 +14,46 @@ nav:
   - Home: index.md
   - Weekly Digest Archive:
       - Archive: archive.md
+      # BEGIN AUTO-GENERATED WEEKLY NAV
       - "2026":
-          - "09 July 2026": weeks/2026-07-09.md
+          - "August":
+              - "6 August 2026": weeks/2026-08-06.md
+          - "July":
+              - "30 July 2026": weeks/2026-07-30.md
+              - "23 July 2026": weeks/2026-07-23.md
+              - "16 July 2026": weeks/2026-07-16.md
+              - "9 July 2026": weeks/2026-07-09.md
+              - "2 July 2026": weeks/2026-07-02.md
+          - "June":
+              - "25 June 2026": weeks/2026-06-25.md
+              - "18 June 2026": weeks/2026-06-18.md
+              - "11 June 2026": weeks/2026-06-11.md
+              - "4 June 2026": weeks/2026-06-04.md
+          - "May":
+              - "28 May 2026": weeks/2026-05-28.md
+              - "21 May 2026": weeks/2026-05-21.md
+              - "14 May 2026": weeks/2026-05-14.md
+              - "7 May 2026": weeks/2026-05-07.md
+          - "April":
+              - "30 April 2026": weeks/2026-04-30.md
+              - "23 April 2026": weeks/2026-04-23.md
+              - "16 April 2026": weeks/2026-04-16.md
+              - "9 April 2026": weeks/2026-04-09.md
+              - "2 April 2026": weeks/2026-04-02.md
+          - "March":
+              - "26 March 2026": weeks/2026-03-26.md
+              - "19 March 2026": weeks/2026-03-19.md
+              - "12 March 2026": weeks/2026-03-12.md
+              - "5 March 2026": weeks/2026-03-05.md
+          - "February":
+              - "26 February 2026": weeks/2026-02-26.md
+              - "19 February 2026": weeks/2026-02-19.md
+              - "12 February 2026": weeks/2026-02-12.md
+              - "5 February 2026": weeks/2026-02-05.md
+          - "January":
+              - "29 January 2026": weeks/2026-01-29.md
+              - "22 January 2026": weeks/2026-01-22.md
+              - "15 January 2026": weeks/2026-01-15.md
+              - "8 January 2026": weeks/2026-01-08.md
+              - "1 January 2026": weeks/2026-01-01.md
+      # END AUTO-GENERATED WEEKLY NAV
