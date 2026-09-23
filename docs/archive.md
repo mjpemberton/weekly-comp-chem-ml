@@ -10,6 +10,24 @@ Each entry summarizes publications released during the **seven-day period leadin
 
 ## 2026
 
+- **[Week ending 17 September 2026](weeks/2026-09-17.md)**  
+  *(Literature published 11 September - 17 September 2026)*
+
+- **[Week ending 10 September 2026](weeks/2026-09-10.md)**  
+  *(Literature published 4 September - 10 September 2026)*
+
+- **[Week ending 3 September 2026](weeks/2026-09-03.md)**  
+  *(Literature published 28 August - 3 September 2026)*
+
+- **[Week ending 27 August 2026](weeks/2026-08-27.md)**  
+  *(Literature published 21 August - 27 August 2026)*
+
+- **[Week ending 20 August 2026](weeks/2026-08-20.md)**  
+  *(Literature published 14 August - 20 August 2026)*
+
+- **[Week ending 13 August 2026](weeks/2026-08-13.md)**  
+  *(Literature published 7 August - 13 August 2026)*
+
 - **[Week ending 6 August 2026](weeks/2026-08-06.md)**  
   *(Literature published 31 July - 6 August 2026)*
 
