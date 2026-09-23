@@ -416,6 +416,10 @@ def main() -> None:
         DOCS_WEEKS_DIR / f"{week_string}.md"
     )
 
+    input_is_canonical = (
+        csv_path == canonical_csv.resolve()
+    )
+
     print(f"Input CSV: {csv_path}")
     print(f"Week ending: {human_date(week_end)}")
 
@@ -426,23 +430,31 @@ def main() -> None:
         "across the expected category schema."
     )
 
+    paths_to_protect = [markdown_path]
+
+    if not input_is_canonical:
+        paths_to_protect.append(canonical_csv)
+
     check_overwrite(
-        [
-            canonical_csv,
-            markdown_path,
-        ],
+        paths_to_protect,
         overwrite=args.overwrite,
     )
 
-    write_canonical_csv(
-        rows,
-        canonical_csv,
-    )
+    if input_is_canonical:
+        print(
+            f"Using structured data: "
+            f"{canonical_csv.relative_to(ROOT)}"
+        )
+    else:
+        write_canonical_csv(
+            rows,
+            canonical_csv,
+        )
 
-    print(
-        f"Wrote structured data: "
-        f"{canonical_csv.relative_to(ROOT)}"
-    )
+        print(
+            f"Wrote structured data: "
+            f"{canonical_csv.relative_to(ROOT)}"
+        )
 
     write_markdown(
         rows,
