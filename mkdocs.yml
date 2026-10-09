@@ -16,7 +16,11 @@ nav:
       - Archive: archive.md
       # BEGIN AUTO-GENERATED WEEKLY NAV
       - "2026":
+          - "October":
+              - "8 October 2026": weeks/2026-10-08.md
+              - "1 October 2026": weeks/2026-10-01.md
           - "September":
+              - "24 September 2026": weeks/2026-09-24.md
               - "17 September 2026": weeks/2026-09-17.md
               - "10 September 2026": weeks/2026-09-10.md
               - "3 September 2026": weeks/2026-09-03.md
