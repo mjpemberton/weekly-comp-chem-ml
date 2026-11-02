@@ -1,3 +1,5 @@
+See the hosted site at https://mjpemberton.github.io/weekly-comp-chem-ml/
+
 # Machine Learning in Chemistry Weekly Digest
 
 Welcome! This repository hosts a **weekly curated digest of recent literature at the intersection of machine learning and chemistry**.
