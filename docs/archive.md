@@ -10,6 +10,9 @@ Each entry summarizes publications released during the **seven-day period leadin
 
 ## 2026
 
+- **[Week ending 19 November 2026](weeks/2026-11-19.md)**  
+  *(Literature published 13 November - 19 November 2026)*
+
 - **[Week ending 12 November 2026](weeks/2026-11-12.md)**  
   *(Literature published 6 November - 12 November 2026)*
 
