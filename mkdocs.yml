@@ -17,6 +17,7 @@ nav:
       # BEGIN AUTO-GENERATED WEEKLY NAV
       - "2026":
           - "November":
+              - "26 November 2026": weeks/2026-11-26.md
               - "19 November 2026": weeks/2026-11-19.md
               - "12 November 2026": weeks/2026-11-12.md
               - "5 November 2026": weeks/2026-11-05.md
